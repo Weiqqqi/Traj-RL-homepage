@@ -4,19 +4,11 @@ This repository contains the source code for the project website of our paper:
 
 **Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints**
 
-The project homepage presents the motivation, method overview, experimental environments, training results, testing results, ablation studies, and related resources of the proposed Trajectory guidance and Dynamics constraints Reinforcement Learning (TraD-RL) framework.
-
-## Website
-
-The website is built based on the Nerfies project page template:
-
-https://github.com/nerfies/nerfies.github.io/tree/main
-
-We sincerely thank the authors of Nerfies for providing this clean and useful academic project webpage template.
+The website presents the motivation, method overview, experimental environments, training results, testing results, ablation studies, and related resources of the proposed **Trajectory guidance and Dynamics constraints Reinforcement Learning (TraD-RL)** framework.
 
 ## Paper
 
-This work proposes an expert knowledge-driven reinforcement learning framework for autonomous racing. The proposed method integrates Minimum Curvature Racing Line (MCRL) guidance, explicit vehicle dynamics constraints, and two-stage curriculum learning to improve exploration efficiency, racing performance, and dynamic stability in high-speed autonomous racing scenarios.
+This work proposes an expert knowledge-driven reinforcement learning framework for autonomous racing. The proposed method integrates **Minimum Curvature Racing Line (MCRL)** guidance, explicit vehicle dynamics constraints, and two-stage curriculum learning to improve exploration efficiency, racing performance, and dynamic stability in high-speed autonomous racing scenarios.
 
 ## Code
 
