@@ -29,3 +29,8 @@ If you find this work useful, please consider citing our paper:
   journal={arXiv preprint arXiv:2603.05842},
   year={2026}
 }
+```
+
+## Acknowledgement
+
+This website is adapted from the [Nerfies project page template](https://github.com/nerfies/nerfies.github.io/tree/main).
