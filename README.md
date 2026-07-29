@@ -26,8 +26,10 @@ If you find this work useful, please consider citing our paper:
 @article{leng2026expert,
   title={Expert Knowledge-driven Reinforcement Learning for Autonomous Racing via Trajectory Guidance and Dynamics Constraints},
   author={Leng, Bo and Zhang, Weiqi and Li, Zhuoren and Xiong, Lu and Jin, Guizhe and Yu, Ran and Lv, Chen},
-  journal={arXiv preprint arXiv:2603.05842},
-  year={2026}
+  journal={Green Energy and Intelligent Transportation},
+  pages={100452},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 
